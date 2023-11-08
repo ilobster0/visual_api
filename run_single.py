@@ -25,7 +25,8 @@ if __name__ == '__main__':
     # 코리아세븐 성북정릉동아점
     # GS25낙성대역점
     brno = '203-13-31683'
-
+    test = None
+    
     # b_input = d.get_bank(search_txt=search_txt, trans_type=2, person_id='test_one', trans_class='카드', trans_amt=1000)
 
     input_data = d.get_bank(search_txt=search_txt, trans_class=trans_class,trans_type=2)
