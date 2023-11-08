@@ -19,6 +19,7 @@ if __name__ == '__main__':
 
     search_txt = '청약'
     trans_class = '기타'
+    person_id = 'test_bang_000003'
     # 삼성생0001
     # 이마트 구로점
     # 코리아세븐 성북정릉동아점
